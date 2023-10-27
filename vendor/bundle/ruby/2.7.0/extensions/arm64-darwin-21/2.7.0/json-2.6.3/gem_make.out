@@ -1,0 +1,13 @@
+current directory: /Users/khalidkhan/WSReactNativeResearch/react_native_animated_views/react_native_animated_views/vendor/bundle/ruby/2.7.0/gems/json-2.6.3/ext/json
+/opt/homebrew/opt/ruby@2.7/bin/ruby -I /opt/homebrew/Cellar/ruby@2.7/2.7.6_1/lib/ruby/2.7.0 -r ./siteconf20231027-72163-ghrutv.rb extconf.rb
+creating Makefile
+
+current directory: /Users/khalidkhan/WSReactNativeResearch/react_native_animated_views/react_native_animated_views/vendor/bundle/ruby/2.7.0/gems/json-2.6.3/ext/json
+make DESTDIR\= clean
+
+current directory: /Users/khalidkhan/WSReactNativeResearch/react_native_animated_views/react_native_animated_views/vendor/bundle/ruby/2.7.0/gems/json-2.6.3/ext/json
+make DESTDIR\=
+make: Nothing to be done for `all'.
+
+current directory: /Users/khalidkhan/WSReactNativeResearch/react_native_animated_views/react_native_animated_views/vendor/bundle/ruby/2.7.0/gems/json-2.6.3/ext/json
+make DESTDIR\= install
